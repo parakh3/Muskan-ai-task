@@ -1,8 +1,8 @@
 // src/App.js
-import React, { useEffect } from 'react';
+import React from 'react';
 import './App.css';
 import IssueList from './components/IssueList';
-import axios from 'axios';
+// import axios from 'axios';
 
 function App() {
 
